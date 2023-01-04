@@ -43,3 +43,7 @@ h1 {
     background-position: right;
     padding-right: 120px;
 }
+
+.developer {
+    display: flex;
+}
